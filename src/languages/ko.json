@@ -1,0 +1,25 @@
+{
+  "router": {
+    "Home": "홈",
+    "Main": "메인",
+    "Invite": "초대장"
+  },
+  "AppHeader": {
+
+  },
+  "AppFooter": {
+
+  },
+  "AppMain": {
+
+  },
+  "Home": {
+
+  },
+  "Main": {
+
+  },
+  "common": {
+    
+  }
+}
